@@ -8,6 +8,8 @@
 - 🔭 I’m currently working on an end of year project
 - 🌱 I’m currently learning Spring framework/ Spring boot
 - 💬 Ask me about : java
-- 📫 How to reach me: akoulihomayma@gmail.com
+- 📫 How to reach me: 
+      Email: akoulihomayma@gmail.com
+      LinkedIn: Omayma AKOULIH
 
 
