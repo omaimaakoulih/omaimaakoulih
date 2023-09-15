@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently a full-stack (symfony + react js ) Intern @Algolus
+- 🔭 I’m currently seeking an internship opportunity for my PFE
 - 🌱 I’m currently learning Spring framework/ Spring boot
 - 💬 Ask me about : java, php
 - 📫 How to reach me: <br/><br/>
