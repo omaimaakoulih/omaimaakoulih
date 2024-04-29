@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently seeking an internship opportunity for my PFE
+- 🔭 Java/JEE engineer intern @SQLI
 - 🌱 I’m currently learning Spring framework/ Spring boot / SAP Hybris
 - 💬 Ask me about : java, Spring, Hybris
 - 📫 How to reach me: <br/><br/>
